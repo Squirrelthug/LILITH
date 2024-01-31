@@ -1,0 +1,1 @@
+# for handling shopping lists and related tasks (e.g. adding items to a list) or other TODOs
