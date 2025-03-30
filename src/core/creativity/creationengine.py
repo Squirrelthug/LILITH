@@ -1,1 +1,0 @@
-# code related to creative problem-solving and generating responses.
